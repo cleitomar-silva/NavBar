@@ -1,5 +1,5 @@
-#NavBar
+# NavBar
 
-##Veja esse codigo renderizado no navegador:
+## Veja esse codigo renderizado no navegador:
 
 https://cleitomar-silva.github.io/NavBar/
